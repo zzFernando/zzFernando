@@ -12,4 +12,5 @@
         <img height="180em"
             src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zzfernando&show_icons=true&count_private=true&theme=midnight-purple" />
         <img height="180em"
-            src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zzfernando&layout=compact&langs_count=7&theme=midnight-purple" />
+            src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zzfernando&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>

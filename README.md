@@ -18,7 +18,7 @@ Cloud Architect and ML/AI Engineer with extensive experience in designing and ma
   <a href="https://linkedin.com/in/zzfernando" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zzfernando" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/kavinsky_inc" target="_blank">
+  <a href="https://instagram.com/fernandokavinsky" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavinsky_inc" height="30" width="40" />
   </a>
 </p>

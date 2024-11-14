@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Kavinsky (He/Him)</h1>
-<h3 align="center">Cloud Architect | MSc AI | 3x MBA | AWS Certified | DevOps | Serverless | Terraform</h3>
+<h3 align="center">Cloud Architect | MSc AI | 3x MBA | 2x AWS Certified | DevOps | Serverless | Terraform</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zzfernando&label=Profile%20views&color=000000&style=flat" alt="zzfernando" />
@@ -7,7 +7,7 @@
 
 <h3 align="left">About Me</h3>
 <p align="left">
-Cloud Architect with a strong background in designing, implementing, and managing secure, scalable systems. I am passionate about automating processes and improving system performance using AWS, Terraform, and modern DevOps practices. I have a track record of leading successful cloud transitions and optimizing environments to drive digital transformation. My three MBAs in Project Management, Process Management, and Business Intelligence empower me to deliver impactful solutions while ensuring efficiency and performance. Currently pursuing a Master's degree in Artificial Intelligence to deepen my expertise in AI-driven solutions in the cloud.
+Cloud Architect and ML/AI Engineer with extensive experience in designing and managing secure, scalable cloud systems. Skilled in AWS, GCP, Terraform, DevOps, and automation, I focus on optimizing cloud infrastructure, reducing costs, and leading successful cloud migrations. Currently pursuing a Master’s in Artificial Intelligence, specializing in machine learning interpretability and big data analytics, I leverage advanced ML/AI techniques to drive digital transformation and deliver impactful solutions that bridge cloud computing and AI.
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -25,14 +25,15 @@ Cloud Architect with a strong background in designing, implementing, and managin
 
 <h3 align="left">Skills & Expertise:</h3>
 <ul>
-  <li>Cloud Architecture (AWS Certified, Azure, GCP)</li>
-  <li>Infrastructure as Code (Terraform, Pulumi)</li>
-  <li>DevOps & CI/CD (Jenkins, CircleCI, TravisCI)</li>
+  <li>Cloud Architecture (AWS Certified, AWS, GCP)</li>
+  <li>Infrastructure as Code (Terraform, Terragrunt, Pulumi)</li>
+  <li>DevOps & CI/CD (GitHub Actions, Jenkins, GitLab CI, CircleCI)</li>
   <li>Containerization & Orchestration (Docker, Kubernetes)</li>
   <li>Serverless Computing (AWS Lambda, Fargate)</li>
   <li>Automation & Configuration (Ansible, Chef)</li>
-  <li>Monitoring & Observability (Grafana, Prometheus, ELK Stack)</li>
-  <li>AI & Machine Learning (MSc in Artificial Intelligence)</li>
+  <li>Monitoring & Observability (Grafana, Prometheus, Dynatrace, Datadog)</li>
+  <li>AI & Machine Learning (TensorFlow, PyTorch, CrewAI)</li>
+  <li>Data Science (Pandas, NumPy, MySQL, PostgreSQL, Elastic Stack, BigQuery)</li>
   <li>Project Management (MBA in Project Management, Agile methodologies)</li>
 </ul>
 

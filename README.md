@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Kavinsky (He/Him)</h1>
-<h3 align="center">Cloud Architect | MSc AI | 3x MBA | 2x AWS Certified | DevOps | Serverless | Terraform</h3>
+<h3 align="center">MSc AI | AI Engineer | ML Engineer | Cloud Architect | 3x MBA | 3x AWS Certified | DevOps | Serverless | Terraform</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zzfernando&label=Profile%20views&color=000000&style=flat" alt="zzfernando" />

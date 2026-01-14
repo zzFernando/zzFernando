@@ -1,8 +1,8 @@
+<div align="center">
+
 # Fernando Kavinsky
 
 **M.Sc. Student in Artificial Intelligence** · **AI/ML Engineer** · **Cloud Architect** · **Aeronautical Engineer**
-
-<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-zzfernando-181717?style=flat&logo=github)](https://github.com/zzfernando)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zzfernando-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/zzfernando)

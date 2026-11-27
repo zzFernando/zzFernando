@@ -2,14 +2,17 @@
 
 # Fernando Kavinsky
 
+### Fernando Souza da Silveira
+
 **AI Engineer · AI Researcher · Software Engineer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-zzfernando-181717?style=flat&logo=github)](https://github.com/zzfernando)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zzfernando-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/zzfernando)
 [![Website](https://img.shields.io/badge/Website-kavinsky.net-000000?style=flat)](https://kavinsky.net)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--8188--7807-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-8188-7807)
+[![Lattes](https://img.shields.io/badge/Lattes-6508343705598182-0055A4?style=flat)](http://lattes.cnpq.br/6508343705598182)
 
-**M.Sc. Researcher in Artificial Intelligence @ UFRGS**
+**M.Sc. Researcher in Artificial Intelligence @ UFRGS · ExpLAIn Laboratory**
 
 </div>
 
@@ -17,9 +20,9 @@
 
 ## About
 
-Engineer and AI researcher focused on understanding and visualizing how learning systems evolve.
+Fernando Souza da Silveira, professionally known as Fernando Kavinsky, is an AI engineer, AI researcher, and software engineer based in Porto Alegre, Brazil, and an M.Sc. researcher in Artificial Intelligence at the Federal University of Rio Grande do Sul (UFRGS), affiliated with the ExpLAIn laboratory.
 
-My current research explores **neuroevolution, weight-space dynamics, visual analytics, and interpretable AI**, combining machine learning research with software and infrastructure engineering.
+My work focuses on understanding and visualizing how learning systems evolve. Current research explores **neuroevolution, weight-space dynamics, visual analytics, and interpretable AI**, combining machine learning research with software and infrastructure engineering.
 
 My engineering background includes **AI/ML, distributed systems, cloud infrastructure, and platform engineering**, with an emphasis on reliable and reproducible systems.
 
@@ -65,12 +68,12 @@ My engineering background includes **AI/ML, distributed systems, cloud infrastru
 
 ## Education
 
-**M.Sc. Computer Science · Artificial Intelligence**  
-Federal University of Rio Grande do Sul — UFRGS
+**M.Sc. Computer Science · Artificial Intelligence** *(in progress)*  
+Federal University of Rio Grande do Sul (UFRGS) · ExpLAIn Laboratory
 
 **B.Eng. Software Engineering**
 
-**B.Sc. Aeronautical Sciences**
+**B.Sc. Aeronautical Sciences** *(in progress)*
 
 Additional studies in **Data Science, Business Intelligence, and Project & Process Management**.
 
@@ -89,6 +92,8 @@ Currently pursuing practical flight training alongside my academic and engineeri
 [![GitHub followers](https://img.shields.io/github/followers/zzfernando?style=flat&logo=github)](https://github.com/zzfernando)
 [![GitHub Stars](https://img.shields.io/github/stars/zzfernando?style=flat&logo=github)](https://github.com/zzfernando)
 [![Profile Views](https://komarev.com/ghpvc/?username=zzfernando&label=Profile%20views&color=0A66C2&style=flat)](https://github.com/zzfernando)
+
+**Official profiles:** [kavinsky.net](https://kavinsky.net/) · [LinkedIn](https://linkedin.com/in/zzfernando) · [ORCID](https://orcid.org/0009-0005-8188-7807) · [Lattes](http://lattes.cnpq.br/6508343705598182)
 
 **Per Ardua ad Astra.**
 
